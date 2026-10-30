@@ -53,13 +53,13 @@ mvn -version
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/bhaktitank023-web/oop-minibank-25IT099.git
 ```
 
 Open the project folder:
 
 ```bash
-cd MINIBANK
+cd oop-minibank-25IT099
 ```
 
 ## Build and Run with Maven
