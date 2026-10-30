@@ -1,0 +1,19 @@
+# Java build output
+*.class
+out/
+build/
+target/
+
+# Local banking data and generated reports (never commit personal/test account data)
+data/*.dat
+data/*.txt
+data/logs/*.log
+
+# IDE / OS files
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+# Keep local banking data private
+data/
